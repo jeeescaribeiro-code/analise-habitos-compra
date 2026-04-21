@@ -1,6 +1,6 @@
-# 📊 Guia do Dashboard — Looker Studio
+# Guia do Dashboard — Looker Studio
 
-Dashboard: **Pesquisa de Mercado — Viabilidade de um Aplicativo de Comparação de Preços**
+Dashboard: **Pesquisa de Mercado: Viabilidade de um Aplicativo de Comparação de Preços**
 Autora: Jéssica Rodrigues | [LinkedIn](https://www.linkedin.com/in/jessica-ribeiro-lr/)
 
 ---
@@ -180,17 +180,3 @@ Cores utilizadas no dashboard (tema azul da pesquisa):
 | Fundo dos scorecards | `#EAF4FB` |
 | Texto dos scorecards | `#1A5276` |
 
-Para aplicar: em qualquer gráfico → aba "Estilo" → "Cores" → inserir o código hex.
-
----
-
-## Dicas Extras
-
-**Atualização automática dos dados:**
-Se você publicar o CSV no GitHub e usar o link raw como fonte, o Looker pode ser configurado para buscar os dados atualizados. Vá em Recurso → Gerenciar fontes de dados → Atualizar.
-
-**Adicionar o link do notebook:**
-Insira uma caixa de texto no dashboard com o link do repositório GitHub e do nbviewer para quem quiser ver o código completo.
-
-**Publicar o dashboard:**
-Clique em "Compartilhar" → "Gerenciar acesso" → "Qualquer pessoa com o link pode visualizar" → copie o link para o README do GitHub.
