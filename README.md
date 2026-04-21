@@ -1,7 +1,4 @@
-# analise-habitos-compra
-Desenvolvi um projeto de análise de dados focado em hábitos de consumo, utilizando Python para tratamento e análise exploratória. Realizei a limpeza e transformação de dados, incluindo a conversão de variáveis qualitativas em quantitativas, análise estatística e identificação de padrões de comportamento dos consumidores.
-
-# 🛒 Pesquisa de Mercado — Viabilidade de um Aplicativo de Comparação de Preços
+#  Pesquisa de Mercado: Viabilidade de um Aplicativo de Comparação de Preços
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter&logoColor=white)
@@ -11,24 +8,20 @@ Desenvolvi um projeto de análise de dados focado em hábitos de consumo, utiliz
 
 > Análise estatística e machine learning aplicados a dados reais de pesquisa de mercado, com o objetivo de avaliar a viabilidade de um aplicativo de comparação de preços em supermercados.
 
----
-
-## 📌 Sobre o Projeto
+##  Sobre o Projeto
 
 Este projeto analisa uma pesquisa com **98 consumidores** para responder três perguntas centrais de negócio:
-
 1. O que mais importa para o consumidor na hora de escolher um supermercado?
-2. Quem usaria um app de comparação de preços — e quem pagaria pelo plano premium?
+2. Quem usaria um app de comparação de preços, e quem pagaria pelo plano premium?
 3. Quanto os usuários estariam dispostos a pagar?
 
 Os dados foram coletados via survey online com 39 variáveis, cobrindo perfil demográfico, hábitos de compra, percepção de valor e disposição a pagar. A análise combina estatística descritiva, clusterização e modelos de machine learning supervisionados para gerar insights acionáveis.
 
 ---
 
-## 📊 Dashboard Looker Studio
+##  Dashboard Looker Studio
 
-🔗 **[Acesse o dashboard interativo aqui](https://lookerstudio.google.com/)**
-*(substitua pelo link real após publicar)*
+🔗 **[Acesse o dashboard interativo aqui]([https://lookerstudio.google.com/](https://datastudio.google.com/reporting/51204db5-3124-4231-a538-d33e5749bf47))**
 
 O dashboard possui 3 páginas:
 - **Página 1 — Perfil:** distribuição demográfica e hábitos de compra
@@ -37,7 +30,7 @@ O dashboard possui 3 páginas:
 
 ---
 
-## 🗂️ Estrutura do Repositório
+## Estrutura do Repositório
 
 ```
 analise-habitos-compra/
@@ -55,7 +48,7 @@ analise-habitos-compra/
 
 ---
 
-## 🔬 Metodologia
+##  Metodologia
 
 ### 5 partes do notebook
 
@@ -79,7 +72,7 @@ analise-habitos-compra/
 
 ---
 
-## 💡 Principais Insights
+## Principais Insights
 
 **O consumidor prioriza preço acima de tudo.** A média de importância de `FATOR_PRECO` foi 4.29/5 — o maior entre todos os fatores de escolha do supermercado. No app, a funcionalidade mais desejada foi comparação de preços em tempo real (4.11/5).
 
@@ -98,7 +91,7 @@ analise-habitos-compra/
 
 ---
 
-## ⚙️ Como Rodar o Projeto
+##  Como Rodar o Projeto
 
 ### 1. Clone o repositório
 
@@ -127,7 +120,7 @@ Execute todas as células até o final do notebook — a última célula exporta
 
 ---
 
-## 🧰 Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 
 - **Python 3.10+**
 - **Pandas** — manipulação e limpeza de dados
@@ -155,8 +148,4 @@ Projeto acadêmico desenvolvido na Universidade Federal de Uberlândia
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jéssica_Rodrigues-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jessica-ribeiro-lr/)
 
----
 
-## 📄 Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
