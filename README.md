@@ -21,7 +21,7 @@ Os dados foram coletados via survey online com 39 variáveis, cobrindo perfil de
 
 ##  Dashboard Looker Studio
 
-🔗 **[Acesse o dashboard interativo aqui]([https://lookerstudio.google.com/](https://datastudio.google.com/reporting/51204db5-3124-4231-a538-d33e5749bf47))**
+🔗 **[Acesse o dashboard interativo aqui]([https://datastudio.google.com/s/g7FHns08qjU])**
 
 O dashboard possui 3 páginas:
 - **Página 1 — Perfil:** distribuição demográfica e hábitos de compra
