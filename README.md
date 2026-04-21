@@ -38,10 +38,7 @@ analise-habitos-compra/
 ├── projetoProgramaria_final.ipynb   # Notebook principal — análise completa
 ├── habitos_de_compra.xlsx           # Dados brutos da pesquisa
 ├── habitos_compra_tratado.csv       # Dados tratados — fonte do dashboard Looker
-│
-├── dashboard/
-│   └── looker_instrucoes.md         # Guia de configuração do Looker Studio
-│
+├── looker_instrucoes.md         # Guia de configuração do Looker Studio
 ├── requirements.txt                 # Dependências do projeto
 └── README.md                        # Este arquivo
 ```
