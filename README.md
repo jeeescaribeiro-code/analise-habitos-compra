@@ -6,7 +6,7 @@
 ![Looker Studio](https://img.shields.io/badge/Looker_Studio-Dashboard-4285F4?logo=google&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Concluído-brightgreen)
 
-> Análise estatística e machine learning aplicados a dados reais de pesquisa de mercado, com o objetivo de avaliar a viabilidade de um aplicativo de comparação de preços em supermercados.
+> Projeto desenvolvido como trabalho acadêmico e para o mini-curso de Análise de  Dados da PrograMaria, com aplicação de análise estatística e machine learning para investigar hábitos de consumo e validar a viabilidade de uma startup de comparação de preços em supermercados. A partir de uma pesquisa com 98 respondentes e 39 variáveis, o projeto explora padrões de comportamento do consumidor, segmentação de perfis e modelos preditivos para apoiar decisões de negócio orientadas por dados.
 
 ##  Sobre o Projeto
 
